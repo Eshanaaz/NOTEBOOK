@@ -1,0 +1,13 @@
+body{
+    background-image: url(.//top-view-notebook-stationery-flower-pink-background-top-view-blank-notebook-pink-gold-paper-clip-little-cute-157561494.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont{
+    /* border: 2px solid red; */
+    background-color: #fadfea;
+}
+
+.hy{
+    border: 2px solid red;
+}
